@@ -1,17 +1,20 @@
-# Swartkat_chowdown
+# Swartkat Chowdown
+
+![](_markdown/Swarkat_face.png)
+
 Basic platformer game where you collect birds and mice for points
 
 The game is still in very early development.
 
 Controls are:
 
-Movement  = Arrow Keys
+<i><b>Movement</b></i> = Arrow Keys
 
-Jump      = Space
+<i><b>Jump</b></i>      = Space
 
-Quit      = Esc
+<i><b>Quit</b></i>        = Esc
 
-Still to be added:
+#Still to be added:
 - proper Game Over screen
 - proper animated characters
 - levels
