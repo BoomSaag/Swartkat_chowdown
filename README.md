@@ -6,7 +6,9 @@ The game is still in very early development.
 Controls are:
 
 Movement  = Arrow Keys
+
 Jump      = Space
+
 Quit      = Esc
 
 Still to be added:
