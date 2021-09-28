@@ -55,9 +55,9 @@ cycle_complete = False
 khaki = [150, 150, 100]
 
 # Fonts
-score_font = pygame.font.SysFont(None, 80)
-smaller_font = pygame.font.SysFont(None, 50)
-tiny_font = pygame.font.SysFont(None, 20)
+score_font = pygame.font.SysFont('Arial', 40, bold=True)
+smaller_font = pygame.font.SysFont('Arial', 50)
+tiny_font = pygame.font.SysFont('Arial', 20)
 
 # Game Variables
 gameState = 0
