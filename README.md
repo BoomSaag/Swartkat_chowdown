@@ -14,7 +14,7 @@ Controls are:
 
 <i><b>Quit</b></i>        = Esc
 
-#Still to be added:
+# Still to be added:
 - proper Game Over screen
 - proper animated characters
 - levels
